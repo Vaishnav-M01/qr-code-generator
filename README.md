@@ -3,6 +3,8 @@
 An advanced QR code generator and scanner built with **Streamlit**. This web app allows users to create stylish and scannable QR codes with customizations like **dot shapes**, **colors**, **embedded images**, and **backgrounds**. It also supports **real-time QR code scanning** via webcam and static image decoding.
 ---
 
+project live link - https://qr-code-generator-pnw7zcstumdxefiwrieh4m.streamlit.app/
+
 ## 🚀 Features
 
 ### ✅ Generate QR Codes
