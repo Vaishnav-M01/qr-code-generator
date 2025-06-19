@@ -95,7 +95,7 @@ Contributors | LinkedIn
   1. Vaishnav M - www.linkedin.com/in/vaishnav-m-
   2. Aleena Pauly - www.linkedin.com/in/aleenapauly
   3. Sajin T S
-  4. Farha
+  4. Farha Aduvanni
 
 ---
 
